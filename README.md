@@ -1,5 +1,7 @@
 # Buy to Let Income Calculator
 
+<img width="1280" height="1088" alt="image" src="https://github.com/user-attachments/assets/2c3ccc63-ab5f-47e8-896a-3272005b7f68" />
+
 This contains everything you need to run your app locally.
 
 ## Run Locally
